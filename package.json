@@ -1,0 +1,10 @@
+{
+  "name": "pokemon-pack-treasury",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "description": "Dry-run pack purchasing policy; not an on-chain treasury"
+}
